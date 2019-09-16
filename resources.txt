@@ -1,0 +1,5 @@
+https://www.freecodecamp.org/news/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75/#targetText=Setting%20Up%20React%20and%20Babel,(for%20example%20Internet%20Explorer).&targetText=We%20need%20to%20create%20a,rules%20for%20our%20babel%2Dloader
+https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7
+https://www.valentinog.com/blog/babel/
+https://medium.com/@learnreact/container-components-c0e67432e005
+https://reactjs.org/docs/typechecking-with-proptypes.html
