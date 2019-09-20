@@ -20,6 +20,7 @@
   "homepage": "https://github.com/EziamakaNV/makeupedia#readme",
   "devDependencies": {
     "@babel/core": "^7.6.0",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
@@ -38,6 +39,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
+    "@material-ui/core": "^4.4.2",
     "express": "^4.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
