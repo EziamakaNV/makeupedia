@@ -21,7 +21,7 @@ export default class Layout extends Component {
       }
     });
     console.log(query);
-    fetch(`http://makeup-api.herokuapp.com/api/v1/products.json?${query}`)
+    fetch(`https://makeup-api.herokuapp.com/api/v1/products.json?${query}`)
     .then((resp) => resp.json())
     .then((data) => {
       console.log(data);
